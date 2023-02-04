@@ -1,4 +1,4 @@
-# Group 4 evolutionary algorithm
+# Evolutionary algorithm
 
 ## Goal
 Find the coordinates of the centers of the vertices so that the graph has as few intersecting edges as possible.
